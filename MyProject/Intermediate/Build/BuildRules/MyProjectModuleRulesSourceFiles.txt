@@ -1,0 +1,3 @@
+D:\Git\VRTutorial\VRTutorial\MyProject\Source\MyProject\MyProject.Build.cs
+D:\Git\VRTutorial\VRTutorial\MyProject\Source\MyProject.Target.cs
+D:\Git\VRTutorial\VRTutorial\MyProject\Source\MyProjectEditor.Target.cs
